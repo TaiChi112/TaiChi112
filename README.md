@@ -8,8 +8,8 @@ I've been learning CS for 2 year
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [anothai.0978452316@gmail.com](mailto:anothai.0978452316@gmail.com)
-* 🧠  I'm learning Golang, Typescript,
-* 🤝  I'm open to collaborating on Automation, DBA, AI
+* 🧠  I'm learning  Typescript, Golang, Rust
+* 🤝  I'm open to collaborating on Automation, DBA, AI, Robotics
 * ⚡  I'm looking for a backend development & DBA internship.
 
 <a href="https://www.github.com/TaiChi112" target="_blank" rel="noreferrer"><img
