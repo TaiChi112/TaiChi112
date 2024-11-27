@@ -8,7 +8,7 @@ CS student
 * 🧠  I'm learning  Typescript, Golang, Rust
 * 🤝  I'm open to collaborating on Automation, DBA, AI, Robotics
 * ⚡  I'm looking for a backend development & DBA internship.
-
+    
 <a href="https://www.github.com/TaiChi112" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -36,6 +36,4 @@ src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the
 
 <a href="https://github.com/TaiChi112" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiChi112&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
