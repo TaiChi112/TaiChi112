@@ -5,7 +5,7 @@ CS student
 ----------
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [anothai.0978452316@gmail.com](mailto:anothai.0978452316@gmail.com)
-* 🧠  I'm learning  Typescript, Rust, Golang(general), PSQL, MySQL, MongoDB(general)
+* 🧠  I'm learning  Typescript, Rust, C++, PSQL, MySQL
 * 🤝  I'm open to collaborating on Automation, DBA, AI, Robotics
 * ⚡  I'm looking for a backend development & DBA internship.
     
