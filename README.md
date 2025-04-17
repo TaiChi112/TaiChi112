@@ -6,8 +6,8 @@ CS student
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [anothai.0978452316@gmail.com](mailto:anothai.0978452316@gmail.com)
 * 🧠  I'm learning  Typescript, Rust, C++, PSQL, MySQL
-* 🤝  I'm open to collaborating on Automation, DBA, AI, Robotics
-* ⚡  I'm looking for a backend development & DBA internship.
+* 🤝  I'm open to collaborating on Automation, DBA, and AI
+* ⚡  I'm seeking a backend developer, automation script, and DBA internship.
     
 <a href="https://www.github.com/TaiChi112" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
