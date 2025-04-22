@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is TaiChi
 ==============================================================================================================================
 
-CS student ![Visitor Count](https://count.getloli.com/get/@TaiChi112?theme=rule34)
+CS student ![](https://komarev.com/ghpvc/?username=TaiChi112)
 
 ----------
 * 🌍  I'm based in Thailand
