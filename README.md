@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is TaiChi
 ==============================================================================================================================
 
-CS student
+CS student ![Visitor Count](https://count.getloli.com/get/@TaiChi112?theme=rule34)
+
 ----------
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [anothai.0978452316@gmail.com](mailto:anothai.0978452316@gmail.com)
