@@ -14,7 +14,6 @@ src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the
 
 ### Skills
 
-
 <p align="left">
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/docker-library/docs/a11c341c57de07fbccfed7b21ea92d4bc40130a2/rust/logo.png" width="36" height="36" alt="Rust" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -50,7 +49,11 @@ src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the
 
 
 
-<a href="https://github.com/TaiChi112" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiChi112&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left">
+  <a href="https://github.com/TaiChi112">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiChi112&langs_count=18&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=My%20Top%2010%20Languages" alt="Most Used Languages" />
+  </a>
+</p>
 
 ### Socials
 
