@@ -51,7 +51,7 @@ src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the
 
 <p align="left">
   <a href="https://github.com/TaiChi112">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiChi112&langs_count=18&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=My%20Top%2010%20Languages" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiChi112&langs_count=18&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=My%20Top%20%20Languages" alt="Most Used Languages" />
   </a>
 </p>
 
