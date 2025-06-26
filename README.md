@@ -2,12 +2,45 @@ Hi 👋 My name is TaiChi
 ==============================================================================================================================
 
 CS student 
-----------
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [anothai.0978452316@gmail.com](mailto:anothai.0978452316@gmail.com)
-* 🧠  I'm learning Rust, C++,Typescript, Python, Mysql, Psql, Go
-* 🤝  I'm open to collaborating on Automation, DBA, and AI
-* ⚡  I'm seeking an automation test, and a Backend developer || DBA internship.
+---
+### 🌟 Passionate Developer & Aspiring Volunteer
+
+🌍 I'm based in Thailand and always eager to connect!
+✉️ Reach out to me at anothai.0978452316@gmail.com
+
+---
+
+### 🛠️ My Skill Stack & Growth Areas
+
+🧠 I'm diving deep into **Rust, C++, TypeScript, MySQL, and PostgreSQL**. My core interests revolve around **web development**, from front-end to back-end.
+
+🤝 I'm keen to collaborate on projects involving **Automation, Database Administration (DBA), and Artificial Intelligence (AI)**.
+
+---
+
+### 🌱 Volunteering for Impact & Growth
+
+I'm incredibly passionate about using my technical skills for good! I'm actively looking for **volunteer opportunities** where I can:
+
+* **Build and enhance websites** for non-profit organizations and social impact initiatives.
+* **Share knowledge and teach web development** to empower others in the community.
+* Contribute to **open-source projects** that foster positive change.
+
+Through volunteering, I aim to **support valuable causes**, **gain hands-on experience**, **build a strong professional network**, and ensure **continuous personal and skill development**.
+
+---
+
+### ⏰ My Time Commitment
+
+I'm available to contribute **2 to 6 hours per week** to meaningful volunteer projects.
+
+---
+
+### 🚀 Future Aspirations
+
+⚡ On the professional front, I'm seeking an **Automation Test, Backend Developer, or DBA internship**.
+
+---
     
 <a href="https://www.github.com/TaiChi112" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
