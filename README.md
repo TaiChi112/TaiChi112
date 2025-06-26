@@ -38,7 +38,7 @@ I'm available to contribute **2 to 6 hours per week** to meaningful volunteer pr
 
 ### 🚀 Future Aspirations
 
-⚡ On the professional front, I'm seeking an **Automation Test, Backend Developer, or DBA internship**.
+⚡ On the professional front, I'm seeking an **Web Development, Backend Developer, or DBA internship**.
 
 ---
     
