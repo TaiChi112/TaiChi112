@@ -88,7 +88,9 @@ src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the
   </a>
 </p>
 
+[![roadmap.sh](https://roadmap.sh/card/tall/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Cbackend%2Cdocker)](https://roadmap.sh)
 [![roadmap.sh](https://roadmap.sh/card/wide/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Cbackend%2Cdocker)](https://roadmap.sh)
+
 ### Socials
 
 <p align="left"> 
