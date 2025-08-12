@@ -78,22 +78,23 @@ src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the
 <b>My GitHub Stats</b>
 
 <p align="center">
-    <a href="http://www.github.com/TaiChi112"><img src="https://github-readme-stats.vercel.app/api?username=TaiChi112&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TaiChi112's GitHub stats" /></a>
-
-</p>
-
-
-<p style="display:flex;">
   <a href="https://github.com/TaiChi112">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiChi112&langs_count=18&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=My%20Top%20%20Languages" alt="Most Used Languages" /></a>
 <a href="https://roadmap.sh/u/taichi112">
     <img src="https://roadmap.sh/card/tall/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Cbackend)](https://roadmap.sh" />
 </a>
-    
-[![roadmap.sh](https://roadmap.sh/card/tall/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Cbackend)](https://roadmap.sh)
 </p>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Cbackend)](https://roadmap.sh)
+<p align="center">
+    <a href="http://www.github.com/TaiChi112"><img src="https://github-readme-stats.vercel.app/api?username=TaiChi112&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TaiChi112's GitHub stats" /></a>
+    <a href="https://roadmap.sh/account">
+        <img src="https://roadmap.sh/card/wide/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Cbackend)](https://roadmap.sh"/>
+    </a>
+</p>
+
+<!-- [![roadmap.sh](https://roadmap.sh/card/wide/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Cbackend)](https://roadmap.sh) -->
+<!-- [![roadmap.sh](https://roadmap.sh/card/tall/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Cbackend)](https://roadmap.sh) -->
+
 
 ### Socials
 
