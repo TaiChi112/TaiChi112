@@ -47,14 +47,13 @@ src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the
 
 ### Skills
 
-<p align="left">
+<p align="center">
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/docker-library/docs/a11c341c57de07fbccfed7b21ea92d4bc40130a2/rust/logo.png" width="36" height="36" alt="Rust" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>  
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go"></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js"/></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
@@ -78,17 +77,22 @@ src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/TaiChi112"><img src="https://github-readme-stats.vercel.app/api?username=TaiChi112&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TaiChi112's GitHub stats" /></a>
+<p align="center">
+    <a href="http://www.github.com/TaiChi112"><img src="https://github-readme-stats.vercel.app/api?username=TaiChi112&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TaiChi112's GitHub stats" /></a>
 
-
-
-<p align="left">
-  <a href="https://github.com/TaiChi112">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiChi112&langs_count=18&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=My%20Top%20%20Languages" alt="Most Used Languages" />
-  </a>
 </p>
 
+
+<p style="display:flex;">
+  <a href="https://github.com/TaiChi112">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiChi112&langs_count=18&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=My%20Top%20%20Languages" alt="Most Used Languages" /></a>
+<a href="https://roadmap.sh/u/taichi112">
+    <img src="https://roadmap.sh/card/tall/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Cbackend)](https://roadmap.sh" />
+</a>
+    
 [![roadmap.sh](https://roadmap.sh/card/tall/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Cbackend)](https://roadmap.sh)
+</p>
+
 [![roadmap.sh](https://roadmap.sh/card/wide/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Cbackend)](https://roadmap.sh)
 
 ### Socials
