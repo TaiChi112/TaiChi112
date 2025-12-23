@@ -63,7 +63,7 @@ I am currently seeking opportunities such as **Internships or Volunteer Projects
 <!-- Software Engineering  
 - Project Management -->
 - **AI** | **ML** | **DL** | **DE** | **DM** | **DIP** | **CV**  
-- **Database Administration (DBA) **   
+- **Database Administration (DBA)**   
 - **QA Automation & Software Testing**  
 
 ---
