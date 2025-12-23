@@ -25,13 +25,16 @@ My long-term goal is to leverage my technical skills to create **positive social
 
 I'm incredibly passionate about using my technical skills for good! I'm actively looking for **volunteer opportunities** where I can:
 
-- Building and improving websites for **NGOs and Social Impact initiatives**  
-- Teaching **Software Development with a focus on Web Development**, including  
-  Frontend, Backend, Database design, and Software Engineering best practices  
-- Contributing to **open-source projects** that aim to benefit society and developer communities
-* **Build and enhance websites** for non-profit organizations and social impact initiatives.
-* **Share knowledge and teach web development** to empower others in the community.
-* Contribute to **open-source projects** that foster positive change.
+I am highly motivated to use my technical skills for social good.
+I am actively looking for **volunteer opportunities** where I can:
+
+- Build and improve websites for **NGOs and social impact initiatives**
+- Teach **Software Development with a focus on Web Development**,
+  including Frontend, Backend, Database design, and Software Engineering best practices
+- Contribute to **open-source projects** that benefit society and developer communities
+
+Through volunteering, I aim to support meaningful causes, gain hands-on experience,
+build a strong professional network, and continuously develop my skills.
 
 Through volunteering, I aim to **support valuable causes**, **gain hands-on experience**, **build a strong professional network**, and ensure **continuous personal and skill development**.
 
