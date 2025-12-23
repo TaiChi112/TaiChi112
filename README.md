@@ -3,25 +3,32 @@ Hi 👋 My name is TaiChi
 
 CS student 
 ---
-### 🌟 Passionate Developer & Aspiring Volunteer
+### 🌟 Passionate Software Engineering Student & Volunteer-Oriented Developer
 
-🌍 I'm based in Thailand and always eager to connect!
-✉️ Reach out to me at anothai.0978452316@gmail.com
-
----
-
-### 🛠️ My Skill Stack & Growth Areas
-
-🧠 I'm diving deep into **Rust, C++, TypeScript, MySQL, and PostgreSQL**. My core interests revolve around **web development**, from front-end to back-end.
-
-🤝 I'm keen to collaborate on projects involving **Automation, Database Administration (DBA), and Artificial Intelligence (AI)**.
+🌍 Based in Thailand and always open to global collaboration  
+✉️ Contact: anothai.0978452316@gmail.com
 
 ---
 
-### 🌱 Volunteering for Impact & Growth
+### 🧠 Overview
+
+I am a Computer Science student with a strong interest in developing **software grounded in Software Engineering principles**.  
+My primary focus is **end-to-end Web Development**, covering **Frontend, Backend, Database design**, and overall system structure.
+
+My long-term goal is to leverage my technical skills to create **positive social impact** through **volunteer work** and meaningful **open-source contributions**, while continuously improving my engineering mindset and real-world problem-solving abilities.
+
+🧠 I'm diving deep into TypeScript · Rust · C++ · Python · Go · C. My primary interest involves software development based on software engineering, focusing on website development from front-end to back-end and databases.
+
+---
+
+### 🌱 Volunteer Focus for Impact & Growth
 
 I'm incredibly passionate about using my technical skills for good! I'm actively looking for **volunteer opportunities** where I can:
 
+- Building and improving websites for **NGOs and Social Impact initiatives**  
+- Teaching **Software Development with a focus on Web Development**, including  
+  Frontend, Backend, Database design, and Software Engineering best practices  
+- Contributing to **open-source projects** that aim to benefit society and developer communities
 * **Build and enhance websites** for non-profit organizations and social impact initiatives.
 * **Share knowledge and teach web development** to empower others in the community.
 * Contribute to **open-source projects** that foster positive change.
@@ -36,12 +43,28 @@ I'm available to contribute **2 to 6 hours per week** to meaningful volunteer pr
 
 ---
 
-### 🚀 Future Aspirations
+### 🚀 Career Direction
 
-⚡ On the professional front, I'm seeking an **Web Development, Backend Developer, or DBA internship**.
+I am currently seeking opportunities such as **Internships or Volunteer Projects** related to:
+
+- Software Engineering  
+- Project Management  
+<!-- QA Automation -->
+<!-- Web Development -->  
+<!-- Database-focused roles (DBA-oriented) -->
 
 ---
-    
+
+### 🔍 Areas of Interest
+
+<!-- Software Engineering  
+- Project Management -->
+- AI | ML | DL | DE | DM | DIP | CV  
+- Database Administration (DBA)    
+- QA Automation & Software Testing  
+
+---
+
 <a href="https://www.github.com/TaiChi112" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
