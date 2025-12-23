@@ -17,7 +17,7 @@ My primary focus is **end-to-end Web Development**, covering **Frontend, Backend
 
 My long-term goal is to leverage my technical skills to create **positive social impact** through **volunteer work** and meaningful **open-source contributions**, while continuously improving my engineering mindset and real-world problem-solving abilities.
 
-🧠 I'm diving deep into TypeScript · Rust · C++ · Python · Go · C. My primary interest involves software development based on software engineering, focusing on website development from front-end to back-end and databases.
+I'm diving deep into **TypeScript** · **Rust** · **C++** · **Python** · **Go** · **C**. My primary interest involves software development based on software engineering, focusing on website development from front-end to back-end and databases.
 
 ---
 
@@ -50,8 +50,8 @@ I'm available to contribute **2 to 6 hours per week** to meaningful volunteer pr
 
 I am currently seeking opportunities such as **Internships or Volunteer Projects** related to:
 
-- Software Engineering  
-- Project Management  
+- **Software Engineering**
+- **Project Management**
 <!-- QA Automation -->
 <!-- Web Development -->  
 <!-- Database-focused roles (DBA-oriented) -->
@@ -62,9 +62,9 @@ I am currently seeking opportunities such as **Internships or Volunteer Projects
 
 <!-- Software Engineering  
 - Project Management -->
-- AI | ML | DL | DE | DM | DIP | CV  
-- Database Administration (DBA)    
-- QA Automation & Software Testing  
+- **AI** | **ML** | **DL** | **DE** | **DM** | **DIP** | **CV**  
+- **Database Administration (DBA) **   
+- **QA Automation & Software Testing**  
 
 ---
 
