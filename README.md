@@ -3,7 +3,7 @@ Hi 👋 My name is TaiChi
 
 CS student 
 ---
-### 🌟 Passionate Software Engineering Student & Volunteer-Oriented Developer
+### 🌟 Passionate Computer Science Student & Volunteer-Oriented Developer
 
 🌍 Based in Thailand and always open to global collaboration  
 ✉️ Contact: anothai.0978452316@gmail.com
