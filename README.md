@@ -12,59 +12,48 @@ CS student
 
 ### 🧠 Overview
 
-I am a Computer Science student with a strong interest in developing **software grounded in Software Engineering principles**.  
-My primary focus is **end-to-end Web Development**, covering **Frontend, Backend, Database design**, and overall system structure.
+I am a **Computer Science student** driven by a **Project-based learning** approach. My passion lies in developing software deeply grounded in **Software Engineering principles** and **Design Patterns**.
 
-My long-term goal is to leverage my technical skills to create **positive social impact** through **volunteer work** and meaningful **open-source contributions**, while continuously improving my engineering mindset and real-world problem-solving abilities.
+My primary focus is **End-to-End Web Development**, covering Frontend, Backend, Database design, and scalable System Architecture.
 
-I'm diving deep into **TypeScript** · **Rust** · **C++** · **Python** · **Go** · **C**. My primary interest involves software development based on software engineering, focusing on website development from front-end to back-end and databases.
+**Current Goal:** I aim to leverage my technical skills to create **positive social impact** through volunteer work and open-source contributions, while mastering **Software Architecture** in languages like TypeScript, C++, Python, Rust, and Go.
+
+---
+
+### 🔭 What I'm Currently Working On
+
+- **Personal CMS Architecture:** Building a scalable Personal Website/CMS applying various **GoF Design Patterns** (Builder, Factory, Adapter, etc.) to practice clean code and architecture.
+- **Exploring:** Deep diving into **Zig** and **Data Mining (KDD Process)**.
 
 ---
 
 ### 🌱 Volunteer Focus for Impact & Growth
 
-I'm incredibly passionate about using my technical skills for good! I'm actively looking for **volunteer opportunities** where I can:
+I am highly motivated to use my technical skills for social good! I am actively looking for **volunteer opportunities** (2-6 hours/week) where I can:
 
-I am highly motivated to use my technical skills for social good.
-I am actively looking for **volunteer opportunities** where I can:
+- 🛠️ **Build & Improve Websites** for NGOs and social impact initiatives.
+- 🎓 **Teach Software Development**, sharing knowledge on Web Dev & Software Engineering best practices.
+- 🤝 **Contribute to Open Source** projects that benefit society.
 
-- Build and improve websites for **NGOs and social impact initiatives**
-- Teach **Software Development with a focus on Web Development**,
-  including Frontend, Backend, Database design, and Software Engineering best practices
-- Contribute to **open-source projects** that benefit society and developer communities
-
-Through volunteering, I aim to support meaningful causes, gain hands-on experience,
-build a strong professional network, and continuously develop my skills.
-
-Through volunteering, I aim to **support valuable causes**, **gain hands-on experience**, **build a strong professional network**, and ensure **continuous personal and skill development**.
-
----
-
-### ⏰ My Time Commitment
-
-I'm available to contribute **2 to 6 hours per week** to meaningful volunteer projects.
+Through volunteering, I aim to support meaningful causes, gain real-world experience, and build a strong professional network.
 
 ---
 
 ### 🚀 Career Direction
 
-I am currently seeking opportunities such as **Internships or Volunteer Projects** related to:
+I am currently seeking **Internships or Volunteer Projects** related to:
 
-- **Software Engineering**
+- **Software Engineering** (Backend/Full-stack)
+- **Software Architecture & System Design**
 - **Project Management**
-<!-- QA Automation -->
-<!-- Web Development -->  
-<!-- Database-focused roles (DBA-oriented) -->
 
 ---
 
 ### 🔍 Areas of Interest
 
-<!-- Software Engineering  
-- Project Management -->
-- **AI** | **ML** | **DL** | **DE** | **DM** | **DIP** | **CV**  
-- **Database Administration (DBA)**   
-- **QA Automation & Software Testing**  
+- **Software Architecture:** Design Patterns, Clean Code, SOLID Principles.
+- **AI Engineering:** OCR, Intelligent Document Processing (IDP), and Data Mining.
+- **Database Administration (DBA)** & **System Optimization**.
 
 ---
 
