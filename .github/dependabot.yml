@@ -1,0 +1,11 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"  # เฝ้าดู npm/bun
+    directory: "/"
+    schedule:
+      interval: "weekly"      # ตรวจแค่สัปดาห์ละครั้งพอ (จะได้ไม่รำคาญ)
+      day: "monday"           # ตรวจเช้าวันจันทร์
+      time: "09:00"
+    open-pull-requests-limit: 5 # อย่าเปิด PR เกิน 5 อัน (เดี๋ยวตรวจไม่ทัน)
+    reviewers:
+      - "TaiChi112"           # สั่งให้ Assign คุณมาตรวจอัตโนมัติ
