@@ -98,7 +98,7 @@ src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the
 
 <p align="center">
   <a href="https://github.com/TaiChi112">
-    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=TaiChi112&layout=compact&count_private=true&theme=dark&title_color=00b3ff&langs_count=20" alt="Most Used Languages" />
+    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=TaiChi112&layout=compact&count_private=true&theme=dark&title_color=00b3ff&langs_count=20&hide=Jupyter+Notebook" alt="Most Used Languages" />
   </a>
   
 <a href="https://roadmap.sh/u/taichi112">
