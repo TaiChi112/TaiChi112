@@ -119,6 +119,12 @@ src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the
       <img src="https://github-readme-leetcode-card.romitsagu.com/TaiChi112?theme=tokyonight&show=graph,recent" />
     </a>
 </p>
+
+<p align="center">
+    <a href="https://leetcode.com/u/TaiChi112/">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TaiChi112&theme=nord_bright" />
+    </a>
+</p>
 <!--![LeetCode](https://github-readme-leetcode-card.romitsagu.com/TaiChi112?theme=tokyonight&show=graph,recent)
 <!-- [![roadmap.sh](https://roadmap.sh/card/wide/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Cbackend)](https://roadmap.sh) -->
 <!-- [![roadmap.sh](https://roadmap.sh/card/tall/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Cbackend)](https://roadmap.sh) -->
