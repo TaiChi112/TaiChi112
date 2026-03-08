@@ -85,6 +85,8 @@ src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the
 </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=TaiChi112&color=5f4b8b&style=flat-square)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TaiChi112&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
