@@ -101,14 +101,16 @@ src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the
     <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=TaiChi112&layout=compact&count_private=true&theme=dark&title_color=00b3ff&langs_count=20&hide=Jupyter%20Notebook&cache_seconds=1800" alt="Most Used Languages" />
   </a>
 <a href="https://roadmap.sh/u/taichi112">
-    <img src="https://roadmap.sh/card/tall/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Cbackend)](https://roadmap.sh" />
+    <!--<img src="https://roadmap.sh/card/tall/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Cbackend)](https://roadmap.sh" />-->
+    <img src="https://roadmap.sh/card/tall/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Ctypescript%2Cbackend" />
 </a>
 </p>
 
 <p align="center">
     <a href="http://www.github.com/TaiChi112"><img src="https://github-readme-mwendwa.vercel.app/api?username=TaiChi112&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=dark&title_color=00b3ff" alt="TaiChi112's GitHub stats" /></a>
     <a href="https://roadmap.sh/account">
-        <img src="https://roadmap.sh/card/wide/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Cbackend)](https://roadmap.sh"/>
+        <!--<img src="https://roadmap.sh/card/wide/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Cbackend)](https://roadmap.sh"/>-->
+        <img src="https://roadmap.sh/card/wide/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Ctypescript%2Cbackend"/>
     </a>
 </p>
 
