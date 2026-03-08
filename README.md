@@ -100,7 +100,6 @@ src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the
   <a href="https://github.com/TaiChi112">
     <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=TaiChi112&layout=compact&count_private=true&theme=dark&title_color=00b3ff&langs_count=20&hide=Jupyter%20Notebook&cache_seconds=1800" alt="Most Used Languages" />
   </a>
-  
 <a href="https://roadmap.sh/u/taichi112">
     <img src="https://roadmap.sh/card/tall/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Cbackend)](https://roadmap.sh" />
 </a>
@@ -113,6 +112,12 @@ src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the
     </a>
 </p>
 
+<p align="center">
+    <a href="https://leetcode.com/u/TaiChi112/">
+      <img src="https://github-readme-leetcode-card.romitsagu.com/TaiChi112?theme=tokyonight&show=graph,recent" />
+    </a>
+</p>
+<!--![LeetCode](https://github-readme-leetcode-card.romitsagu.com/TaiChi112?theme=tokyonight&show=graph,recent)
 <!-- [![roadmap.sh](https://roadmap.sh/card/wide/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Cbackend)](https://roadmap.sh) -->
 <!-- [![roadmap.sh](https://roadmap.sh/card/tall/646f511ef4193ae10b4874e7?variant=dark&roadmaps=%2Ccomputer-science%2Cbackend)](https://roadmap.sh) -->
 
