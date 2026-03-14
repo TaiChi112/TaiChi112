@@ -1,59 +1,41 @@
-Hi 👋 My name is TaiChi
-==============================================================================================================================
+# Hi, My name is TaiChi
+**Computer Science Student | AI-Native Software Engineer | AI Agent Orchestrator**
 
-CS student 
----
-### 🌟 Passionate Computer Science Student & Volunteer-Oriented Developer
-
-🌍 Based in Thailand and always open to global collaboration  
-✉️ Contact: anothai.0978452316@gmail.com
+Based in Thailand. Contact: anothai.0978452316@gmail.com
 
 ---
 
-### 🧠 Overview
+## Profile Overview
 
-I am a **Computer Science student** driven by a **Project-based learning** approach. My passion lies in developing software deeply grounded in **Software Engineering principles** and **Design Patterns**.
+I am a Computer Science student driven by a project-based learning approach. My core philosophy is bridging solid Software Engineering principles with state-of-the-art LLMs (Gemini, Claude, Qwen, DeepSeek) to build scalable, AI-driven solutions. 
 
-My primary focus is **End-to-End Web Development**, covering Frontend, Backend, Database design, and scalable System Architecture.
-
-**Current Goal:** I aim to leverage my technical skills to create **positive social impact** through volunteer work and open-source contributions, while mastering **Software Architecture** in languages like TypeScript, C++, Python, Rust, and Go.
-
----
-
-### 🔭 What I'm Currently Working On
-
-- **Personal CMS Architecture:** Building a scalable Personal Website/CMS applying various **GoF Design Patterns** (Builder, Factory, Adapter, etc.) to practice clean code and architecture.
-- **Exploring:** Deep diving into **Zig** and **Data Mining (KDD Process)**.
+| Category | Details |
+| :--- | :--- |
+| **Core Focus** | Orchestrating Multi-Agent Systems & Model Context Protocol (MCP) Integration. |
+| **Foundation** | End-to-End Web Development, Design Patterns (GoF), Clean Architecture, and SOLID Principles. |
+| **Tech Stack** | TypeScript, Python, Rust, Go x (Many LLMs). |
+| **Objective** | Leveraging technical skills for social impact and open-source contributions. |
 
 ---
 
-### 🌱 Volunteer Focus for Impact & Growth
+## Current Work & Exploration
 
-I am highly motivated to use my technical skills for social good! I am actively looking for **volunteer opportunities** (2-6 hours/week) where I can:
-
-- 🛠️ **Build & Improve Websites** for NGOs and social impact initiatives.
-- 🎓 **Teach Software Development**, sharing knowledge on Web Dev & Software Engineering best practices.
-- 🤝 **Contribute to Open Source** projects that benefit society.
-
-Through volunteering, I aim to support meaningful causes, gain real-world experience, and build a strong professional network.
+* **Intelligent Document Processing (IDP):** Applying AI to map unstructured software engineering documents into structured formats.
+* **Multi-Agent Orchestration:** Designing automated software workflows where multiple AI agents communicate and execute tasks efficiently.
+* **Personal CMS & Blueprint(SDLC) Hub:** Building scalable web architectures applying Design Patterns to practice clean code and system design.
+* **Deep Dives:** Exploring Zig programming, Data Mining (KDD Process), and Multi-backend architectures (Elysia, FastAPI, Fiber, Actix).
 
 ---
 
-### 🚀 Career Direction
+## Career Direction & Volunteer Focus
 
-I am currently seeking **Internships or Volunteer Projects** related to:
+I am actively seeking **Internships or Volunteer Projects (2-6 hours/week)** to apply my skills for social good and professional growth. 
 
-- **Software Engineering** (Backend/Full-stack)
-- **Software Architecture & System Design**
-- **Project Management**
-
----
-
-### 🔍 Areas of Interest
-
-- **Software Architecture:** Design Patterns, Clean Code, SOLID Principles.
-- **AI Engineering:** OCR, Intelligent Document Processing (IDP), and Data Mining.
-- **Database Administration (DBA)** & **System Optimization**.
+| Target Roles | Volunteer Interests |
+| :--- | :--- |
+| Agentic Software Engineer | Building/Improving systems for NGOs |
+| AI Agent Orchestrator | Teaching Web Dev & SE best practices |
+| Backend/System Architecture | Contributing to Open Source initiatives |
 
 ---
 
