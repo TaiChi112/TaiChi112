@@ -20,10 +20,10 @@ I am a Computer Science student driven by a project-based learning approach. My 
 
 ## Current Work & Exploration
 
-* **Intelligent Document Processing (IDP):** Applying AI to map unstructured software engineering documents into structured formats.
-* **Multi-Agent Orchestration:** Designing automated software workflows where multiple AI agents communicate and execute tasks efficiently.
-* **Personal CMS & Blueprint(SDLC) Hub:** Building scalable web architectures applying Design Patterns to practice clean code and system design.
-* **Deep Dives:** Exploring Zig programming, Data Mining (KDD Process), and Multi-backend architectures (Elysia, FastAPI, Fiber, Actix).
+* **Intelligent Document Processing (IDP) System:** Developing an AI-driven pipeline to parse and map unstructured Software Engineering documents into structured formats. This creates a reliable foundation for downstream automated workflows.
+* **Agentic Workflow & Multi-Agent Orchestration:** Designing system architectures where multiple AI agents communicate seamlessly via the Model Context Protocol (MCP). The goal is to replace manual coding tasks with automated, multi-agent collaborations.
+* **Multi-Backend Architecture (Separation of Concerns):** Building a scalable web ecosystem utilizing GoF Design Patterns across multiple frameworks (Elysia/TypeScript, Fiber/Go, Actix/Rust for core web services and API gateways), ensuring high performance and clean code separation.
+* **Applied Data Mining & AI Engineering:** Leveraging the KDD Process for rigorous data preprocessing to feed high-quality inputs into the IDP system. Deep diving into Python strictly for AI heavy-lifting—focusing on AI Orchestration (LangChain, AutoGen) and advanced OCR/Image Processing (PyThaiNLP, Pillow, OpenCV) rather than traditional web development.
 
 ---
 
