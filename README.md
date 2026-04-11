@@ -1,5 +1,5 @@
 # Hi, My name is TaiChi
-**Computer Science Student | AI-Native Software Engineer | AI Agent Orchestrator**
+**Computer Science Student | Agentic-SE | AI-Native Software Engineer | AI Agent Orchestrator**
 
 Based in Thailand. Contact: anothai.0978452316@gmail.com
 
