@@ -45,7 +45,7 @@ src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the
 ## Tech Stack & Tools
 
 **Core Backend & Systems**
-<p align="left">
+<p align="justify">
 <a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/docker-library/docs/a11c341c57de07fbccfed7b21ea92d4bc40130a2/rust/logo.png" width="36" height="36" alt="Rust" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://go.dev/doc/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go"></a>
@@ -56,7 +56,7 @@ src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the
 </p>
 
 **Data, Infrastructure & Cloud**
-<p align="left">
+<p align="justify">
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
@@ -66,7 +66,7 @@ src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the
 </p>
 
 **Frontend & Others**
-<p align="left">
+<p align="justify">
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js"/></a>
 <a href="https://mui.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
