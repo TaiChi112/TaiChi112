@@ -13,7 +13,7 @@ I am a Computer Science student driven by a project-based learning approach. My 
 | :--- | :--- |
 | **Core Focus** | Orchestrating Multi-Agent Systems & Model Context Protocol (MCP) Integration. |
 | **Foundation** | End-to-End Web Development, Design Patterns (GoF), Clean Architecture, and SOLID Principles. |
-| **Tech Stack** | TypeScript, Python, Rust, Go x (Many LLMs). |
+| **Tech Stack** | TypeScript, Python, Go x (Many LLMs). |
 | **Objective** | Leveraging technical skills for social impact and open-source contributions. |
 
 ---
