@@ -17,7 +17,52 @@ I am a Computer Science student driven by a project-based learning approach. My 
 | **Objective** | Leveraging technical skills for social impact and open-source contributions. |
 
 ---
+## Project
 
+<a href="https://github.com/TaiChi112/personal-profile-prototype">
+  Personal Website (Design Pattern Playground)
+</a>
+
+- **Problem/Motivation**: Learning advanced Software Design Patterns often lacks practical, real-world frontend implementation examples.
+- **Solution/Benefit**: Developed a portfolio website using TypeScript and Next.js, explicitly implementing GoF patterns (Factory, Builder, Visitor) within the architecture. This resulted in a highly maintainable codebase and served as a tangible proof-of-concept for clean code engineering.
+
+<a href="https://github.com/TaiChi112/Converter-Mange-OCR">
+  AI-Powered Manga OCR and Translation Pipeline (HITL)
+</a>
+
+- **Problem/Motivation**: Translating comics manually is highly inefficient due to the complexity of extracting text from images.
+- **Solution/Benefit**: Engineered an end-to-end Python pipeline leveraging digital image processing and Optical Character Recognition (OCR). Integrated a Human-in-the-Loop (HITL) workflow to ensure high contextual accuracy and quality control in English-to-Thai translations.
+
+<a href="https://github.com/TaiChi112/UAPs">
+  Universal Academic Portfolio System (UAPs)
+</a>
+
+- **Problem/Motivation**: Using a single, static resume for different roles reduces the chance of matching company-specific requirements.
+- **Solution/Benefit**: Designed a normalized relational database to securely and flexibly manage skills and experiences. Built a Dynamic Resume generator that outputs tailored documents mapped to specific Job Descriptions, laying the architectural groundwork for future LLM-driven candidate-job matching.
+ 
+<a href="https://github.com/TaiChi112/SDLC_HUB_PROTOTYPE">
+  Google Calendar AI Agent (MCP)
+</a>
+
+- **Problem/Motivation**: Manually managing schedules and checking for appointment overlaps is time-consuming and error-prone.
+- **Solution/Benefit**: Developed a Python-based AI agent utilizing the Model Context Protocol (MCP) to interpret natural language commands. Integrated with the Google Calendar API to automate scheduling and perform real-time overlap detection, significantly reducing manual calendar management.
+
+<a href="https://github.com/TaiChi112/Project-Scaffolding-CLI-Tool">
+  Project Scaffolding CLI Tool (MVP)
+</a>
+
+- **Problem/Motivation**: Setting up new software project structures involves repetitive and time-consuming manual configurations.
+- **Solution/Benefit**: Built a command-line interface (CLI) to automate project bootstrapping (Selection & Contribute features). Engineered a highly flexible architecture designed to support future LLM integration, enabling developers to scaffold custom projects using simple natural language prompts.
+
+<a href="https://github.com/TaiChi112/CS-ICEbreaker-HUB">
+  AI-Powered Phygital Icebreaker Platform
+</a>
+
+- **Problem/Motivation**: Networking events often suffer from low engagement and awkward initial interactions.
+- **Solution/Benefit**: Developed a "Phygital" platform merging physical and online participation. Applied AI to dynamically generate and randomize domain-specific questions (e.g., Computer Science, Data Science), effectively breaking the ice and fostering meaningful professional connections.
+
+
+---
 ## Current Work & Exploration
 
 * **Intelligent Document Processing (IDP) System:** Developing an AI-driven pipeline to parse and map unstructured Software Engineering documents into structured formats. This creates a reliable foundation for downstream automated workflows.
