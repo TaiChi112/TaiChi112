@@ -153,7 +153,7 @@ src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the
 </p>
 
 <p align="center">
-    <a href="https://leetcode.com/u/TaiChi112/">
+    <a href="https://github.com/TaiChi112/">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TaiChi112&theme=nord_bright" />
     </a>
 </p>
