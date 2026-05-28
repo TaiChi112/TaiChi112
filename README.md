@@ -1,125 +1,211 @@
-# Hi, My name is TaiChi
-**Computer Science Student | Agentic-SE | AI Agent Orchestrator**
+# Hi, I'm Anothai Vichapaiboon (TaiChi) 👋
 
-Based in Thailand. Contact: anothai.0978452316@gmail.com
+**Computer Science Student | Software Engineer | Agentic Software Engineer**
+
+Building intelligent software systems that turn **human intent** into **connected, reviewable actions** through LLMs, AI agents, and tool-integrated workflows.
+
+📍 Bangkok, Thailand &nbsp;•&nbsp; 📫 [anothai.0978452316@gmail.com](mailto:anothai.0978452316@gmail.com) &nbsp;•&nbsp; 🌐 [taichi112.works](https://taichi112.works/)
 
 ---
 
-## Profile Overview
+## Engineering Direction
 
-I am a Computer Science student driven by a project-based learning approach. My core philosophy is bridging solid Software Engineering principles with state-of-the-art LLMs (Gemini, Claude, Qwen, DeepSeek) to build scalable, AI-driven solutions. 
+I am a Computer Science student developing toward **Software Engineering** and **Agentic Software Engineering** through project-based practice.
 
-| Category | Details |
+My direction is to build software products where people can express what they need in natural language, while LLM-powered agents coordinate with tools, services, data, and other software systems to help complete the workflow. For important actions, I value **human-in-the-loop control** so users can review, choose, and approve outcomes before execution.
+
+I am interested in the foundations of **AI, Machine Learning, Deep Learning, and Data**, and I continue learning them to better understand the intelligent capabilities used in modern systems. My primary engineering focus is applying those capabilities inside reliable software products — supported by maintainable architecture, scalability, clean design, and practical user value.
+
+| Area | Focus |
 | :--- | :--- |
-| **Core Focus** | Orchestrating Multi-Agent Systems & Model Context Protocol (MCP) Integration. |
-| **Foundation** | End-to-End Web Development, Design Patterns (GoF), Clean Architecture, and SOLID Principles. |
-| **Tech Stack** | TypeScript, Python, Go x (Many LLMs). |
-| **Objective** | Leveraging technical skills for social impact and open-source contributions. |
-
----
-## Projects
-
-<a href="https://github.com/TaiChi112/personal-profile-prototype">
-  Personal Website (Design Pattern Playground)
-</a>
-
-- **Problem/Motivation**: Learning advanced Software Design Patterns often lacks practical, real-world frontend implementation examples.
-- **Solution/Benefit**: Developed a portfolio website using TypeScript and Next.js, explicitly implementing GoF patterns (Factory, Builder, Visitor) within the architecture. This resulted in a highly maintainable codebase and served as a tangible proof-of-concept for clean code engineering.
-
-<a href="https://github.com/TaiChi112/Converter-Mange-OCR">
-  AI-Powered Manga OCR and Translation Pipeline (HITL)
-</a>
-
-- **Problem/Motivation**: Translating comics manually is highly inefficient due to the complexity of extracting text from images.
-- **Solution/Benefit**: Engineered an end-to-end Python pipeline leveraging digital image processing and Optical Character Recognition (OCR). Integrated a Human-in-the-Loop (HITL) workflow to ensure high contextual accuracy and quality control in English-to-Thai translations.
-
-<a href="https://github.com/TaiChi112/UAPs">
-  Universal Academic Portfolio System (UAPs)
-</a>
-
-- **Problem/Motivation**: Using a single, static resume for different roles reduces the chance of matching company-specific requirements.
-- **Solution/Benefit**: Designed a normalized relational database to securely and flexibly manage skills and experiences. Built a Dynamic Resume generator that outputs tailored documents mapped to specific Job Descriptions, laying the architectural groundwork for future LLM-driven candidate-job matching.
- 
-<a href="https://github.com/TaiChi112/SDLC_HUB_PROTOTYPE">
-  Google Calendar AI Agent (MCP)
-</a>
-
-- **Problem/Motivation**: Manually managing schedules and checking for appointment overlaps is time-consuming and error-prone.
-- **Solution/Benefit**: Developed a Python-based AI agent utilizing the Model Context Protocol (MCP) to interpret natural language commands. Integrated with the Google Calendar API to automate scheduling and perform real-time overlap detection, significantly reducing manual calendar management.
-
-<a href="https://github.com/TaiChi112/Project-Scaffolding-CLI-Tool">
-  Project Scaffolding CLI Tool (MVP)
-</a>
-
-- **Problem/Motivation**: Setting up new software project structures involves repetitive and time-consuming manual configurations.
-- **Solution/Benefit**: Built a command-line interface (CLI) to automate project bootstrapping (Selection & Contribute features). Engineered a highly flexible architecture designed to support future LLM integration, enabling developers to scaffold custom projects using simple natural language prompts.
-
-<a href="https://github.com/TaiChi112/CS-ICEbreaker-HUB">
-  AI-Powered Phygital Icebreaker Platform
-</a>
-
-- **Problem/Motivation**: Networking events often suffer from low engagement and awkward initial interactions.
-- **Solution/Benefit**: Developed a "Phygital" platform merging physical and online participation. Applied AI to dynamically generate and randomize domain-specific questions (e.g., Computer Science, Data Science), effectively breaking the ice and fostering meaningful professional connections.
-
-
----
-## Current Work & Exploration
-
-* **Intelligent Document Processing (IDP) System:** Developing an AI-driven pipeline to parse and map unstructured Software Engineering documents into structured formats. This creates a reliable foundation for downstream automated workflows.
-* **Agentic Workflow & Multi-Agent Orchestration:** Designing system architectures where multiple AI agents communicate seamlessly via the Model Context Protocol (MCP). The goal is to replace manual coding tasks with automated, multi-agent collaborations.
-* **Multi-Backend Architecture (Separation of Concerns):** Building a scalable web ecosystem utilizing GoF Design Patterns across multiple frameworks (Elysia/TypeScript, Fiber/Go, Actix/Rust for core web services and API gateways), ensuring high performance and clean code separation.
-* **Applied Data Mining & AI Engineering:** Leveraging the KDD Process for rigorous data preprocessing to feed high-quality inputs into the IDP system. Deep diving into Python strictly for AI heavy-lifting—focusing on AI Orchestration (LangChain, AutoGen) and advanced OCR/Image Processing (PyThaiNLP, Pillow, OpenCV) rather than traditional web development.
+| **Target Roles** | Software Engineer Intern · Agentic Software Engineer Intern |
+| **Core Languages** | TypeScript · Python |
+| **Agentic Software Direction** | LLM integration · AI agent workflows · MCP-style connectivity · Human-in-the-loop systems |
+| **Engineering Foundation** | Clean Architecture · SOLID Principles · Design Patterns · Maintainability · Scalability |
+| **Long-Term Vision** | Software that connects humans, intelligent agents, tools, and services through natural interaction |
 
 ---
 
-## Career Direction & Volunteer Focus
+## Agentic Product Vision
 
-I am actively seeking **Internships or Volunteer Projects (2-6 hours/week)** to apply my skills for social good and professional growth. 
+I want to develop software that moves beyond rigid, manual interaction flows. Instead of requiring users to understand every configuration option or repeatedly navigate multiple systems, an agentic product should help interpret the user's goal, coordinate the necessary tools, and present safe actions for approval.
 
-| Target Roles | Volunteer Interests |
-| :--- | :--- |
-| Agentic Software Engineer | Building/Improving systems for NGOs |
-| AI Agent Orchestrator | Teaching Web Dev & SE best practices |
-| Backend/System Architecture | Contributing to Open Source initiatives |
+```text
+Human Goal in Natural Language
+            ↓
+Intent Understanding & Context
+            ↓
+LLM / AI Agent Workflow
+            ↓
+Connected Tools, APIs, Data & Software Services
+            ↓
+Recommendation or Prepared Action
+            ↓
+Human Review / Approval (HITL)
+            ↓
+Controlled Execution
+```
+
+Examples of experiences I want to build include:
+
+- A user describes a deployment requirement, and the system prepares suitable infrastructure configurations for review.
+- A user describes what they want to buy, and the system finds matching options, compares trade-offs, and prepares a selection for confirmation.
+- An organization connects operational tools, documents, and services so an agent can assist with repetitive workflows while preserving human control.
 
 ---
 
-<a href="https://www.github.com/TaiChi112" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+## Featured Projects
+
+### [Google Calendar AI Agent (MCP)](https://github.com/TaiChi112/SDLC_HUB_PROTOTYPE)
+**Agentic workflow · Python · MCP · Google Calendar API**
+
+Built a Python-based AI agent that interprets natural-language scheduling requests and integrates with Google Calendar operations, including appointment overlap detection. This project represents my interest in software agents that connect user intent with real tools and controlled actions.
+
+### [Universal Academic Portfolio System (UAPs)](https://github.com/TaiChi112/UAPs)
+**Software product architecture · TypeScript · Structured data · Personalized workflows**
+
+Designed a structured system for managing skills, projects, and experiences so users can produce role-specific portfolio or resume versions. The system creates a foundation for future LLM-assisted recommendations and human-reviewed document generation.
+
+### [AI-Powered Manga OCR and Translation Pipeline (HITL)](https://github.com/TaiChi112/Converter-Mange-OCR)
+**Applied intelligent workflow · Python · Image Processing · OCR · HITL**
+
+Engineered a pipeline for extracting and translating text from manga images using image processing and OCR, with a human review flow for translation quality and contextual accuracy.
+
+### [Project Scaffolding CLI Tool (MVP)](https://github.com/TaiChi112/Project-Scaffolding-CLI-Tool)
+**Developer tooling · CLI · Extensible system design**
+
+Built a command-line tool for automating project bootstrapping and reusable development workflows. Its design is intended to evolve toward LLM-assisted software setup through natural-language requirements.
+
+### [Software Architecture & Design Pattern Playground](https://github.com/TaiChi112/personal-profile-prototype)
+**Software engineering foundation · TypeScript · Next.js · GoF Patterns**
+
+Created a practical system for applying software engineering concepts, including GoF design patterns and maintainable component architecture. The implementation uses a browser-based interface, while the project's purpose is architectural learning and maintainable software design.
+
+### [AI-Powered Phygital Icebreaker Platform](https://github.com/TaiChi112/CS-ICEbreaker-HUB)
+**Intelligent interaction · AI-assisted content · Real-world participation**
+
+Developed a platform that connects physical and digital event participation, applying AI-assisted question generation to support more meaningful professional interactions.
+
+---
+
+## Current Learning & Development Focus
+
+- Designing **agentic software systems** where LLMs and AI agents support real product workflows.
+- Exploring **Model Context Protocol (MCP)** for connecting agents with tools, data sources, APIs, and software services.
+- Learning **LangChain** and **LangGraph** for tool-using workflows, orchestration, persistence, and human-in-the-loop control.
+- Continuing to build foundations in **AI, ML, DL, and Data** to better evaluate and apply intelligent capabilities responsibly.
+- Applying **clean architecture, SOLID principles, design patterns, scalability, and maintainability** to AI-integrated software.
+- Building systems that let users interact naturally while keeping high-impact actions transparent and reviewable.
+
+---
 
 ## Tech Stack & Tools
 
-**Core Backend & Systems**
-<p align="justify"> 
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://go.dev/doc/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go"></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>  
-<a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/docker-library/docs/a11c341c57de07fbccfed7b21ea92d4bc40130a2/rust/logo.png" width="36" height="36" alt="Rust" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-</p> 
+### Primary Engineering Languages
 
-**Data, Infrastructure & Cloud**
-<p align="justify">
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<p align="left">
+  <a href="https://www.typescriptlang.org/" title="TypeScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  </a>&nbsp;
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  </a>
 </p>
 
-**Frontend & Others**
-<p align="justify">
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js"/></a>
-<a href="https://mui.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://metamask.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+### Agentic Systems & Intelligent Software
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LLM%20Integration-111827?style=for-the-badge" alt="LLM Integration" />
+  <img src="https://img.shields.io/badge/AI%20Agent%20Workflows-111827?style=for-the-badge" alt="AI Agent Workflows" />
+  <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Human--in--the--Loop-111827?style=for-the-badge" alt="Human-in-the-Loop" />
+  <img src="https://img.shields.io/badge/OCR-111827?style=for-the-badge" alt="OCR" />
+  <img src="https://img.shields.io/badge/Image%20Processing-111827?style=for-the-badge" alt="Image Processing" />
 </p>
 
-<!--![](https://komarev.com/ghpvc/?username=TaiChi112&color=5f4b8b&style=flat-square)-->
+**Currently learning and exploring:** LangChain · LangGraph · MCP-based integrations  
+**LLM tools used in development:** Gemini · Claude · GPT
+
+### Software System Implementation
+
+<p align="left">
+  <a href="https://nextjs.org/" title="Next.js">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+  </a>&nbsp;
+  <a href="https://react.dev/" title="React">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  </a>&nbsp;
+  <a href="https://nodejs.org/" title="Node.js">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  </a>&nbsp;
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
+  </a>&nbsp;
+  <a href="https://expressjs.com/" title="Express">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" alt="Express" />
+  </a>&nbsp;
+  <a href="https://tailwindcss.com/" title="Tailwind CSS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" />
+  </a>
+</p>
+
+### Data, Infrastructure & Delivery
+
+<p align="left">
+  <a href="https://www.postgresql.org/" title="PostgreSQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+  </a>&nbsp;
+  <a href="https://www.mysql.com/" title="MySQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  </a>&nbsp;
+  <a href="https://www.mongodb.com/" title="MongoDB">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  </a>&nbsp;
+  <a href="https://www.prisma.io/" title="Prisma">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma" />
+  </a>&nbsp;
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  </a>&nbsp;
+  <a href="https://github.com/features/actions" title="GitHub Actions">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions" />
+  </a>&nbsp;
+  <a href="https://cloud.google.com/" title="Google Cloud">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" />
+  </a>&nbsp;
+  <a href="https://vercel.com/" title="Vercel">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" />
+  </a>
+</p>
+
+### Additional Languages & Exploration
+
+<p align="left">
+  <a href="https://isocpp.org/" title="C++">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  </a>&nbsp;
+  <a href="https://go.dev/" title="Go">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" alt="Go" />
+  </a>&nbsp;
+  <a href="https://www.rust-lang.org/" title="Rust">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" height="40" alt="Rust" />
+  </a>&nbsp;
+  <a href="https://www.linux.org/" title="Linux">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  </a>
+</p>
+
+---
+
+## Career Direction
+
+I am seeking opportunities to contribute as a **Software Engineer Intern** while growing toward **Agentic Software Engineering**: designing reliable software products where LLMs and AI agents help connect human goals with tools, data, and services through natural-language interaction and human-approved execution.
+
+**Areas of Interest:** Software Engineering · Agentic Software Systems · Intelligent Product Development · LLM Integration · Tool-Connected Workflows · Human-in-the-Loop Systems
+
+<a href="https://www.github.com/TaiChi112" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/TaiChi112?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers" />
+</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TaiChi112&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
