@@ -2,7 +2,7 @@
 
 **Computer Science Student | Software Engineer | Agentic Software Engineer**
 
-Building intelligent software systems that turn **human intent** into **connected, reviewable actions** through LLMs, AI agents, and tool-integrated workflows.
+Building software that turns human intent into connected, reviewable actions through LLMs, agents, tools, and services.
 
 📍 Bangkok, Thailand &nbsp;•&nbsp; 📫 [anothai.0978452316@gmail.com](mailto:anothai.0978452316@gmail.com) &nbsp;•&nbsp; 🌐 [taichi112.works](https://taichi112.works/)
 
