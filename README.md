@@ -208,6 +208,7 @@ I am seeking opportunities to contribute as a **Software Engineer Intern** while
 </a>
 
 ## 🏆 GitHub Trophies
+[![committers.top badge](https://user-badge.committers.top/thailand/TaiChi112.svg)](https://user-badge.committers.top/thailand/TaiChi112)
 ![](https://github-profile-trophy.vercel.app/?username=TaiChi112&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 <!--[![Github stats](https://github-readme-mwendwa.vercel.app/api?username=TaiChi112&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=dark&title_color=00b3ff)](#)-->
